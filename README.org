@@ -1,0 +1,8 @@
+#+title: Nonlinear Rigid Block Normal-Mode Diffusion Model 
+#+EXPORT_FILE_NAME: index.html
+#+setupfile: docs/setup-rto.org
+
+* Introduction
+
+The code is ment as an extension for https://github.com/rennney/NB_Sim/ 
+Place the code inside nb_sim folder and it will enable diffusion model tramining and inderence commands
